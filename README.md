@@ -4,7 +4,9 @@ This folder contain the measured and predict thermo-physical data of different o
 Note: To maintain anonymity, the sheet number corresponds to each patient that is represented by unique patient Id.
 
 Copyright (c) 2020, Arka Bhowmik and Suman Chakraborty
+
 Use of source files and data, with or without modification, are permitted provided that the following conditions were met.
+
 1. Citing the source paper or data source.
 2. Source paper: Details will be modified upon publication.
 3. Data source: A. Bhowmik and S. Chakraborty, Measured temperature, blood perfusion, metabolic heat generation and thermal diffusivity of healthy oral mucosa, OSCC and OSF, 2020 [Online]: https://github.com/Arka-Bhowmik/oral_properties
