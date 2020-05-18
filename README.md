@@ -1,5 +1,5 @@
 # oral_properties
-This folder contain the measured and predict thermo-physical data of different oral sites of normal patient, patient with oral squamous cell carcinoma and oral submucosa fibrosis.
+This folder contains the measured and predicted thermo-physical data of different oral sites of normal patient, patient with oral squamous cell carcinoma and oral submucosa fibrosis.
 
 Note: To maintain anonymity, the sheet number corresponds to each patient that is represented by unique patient Id.
 
