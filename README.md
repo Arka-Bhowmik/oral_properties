@@ -30,13 +30,15 @@ Details of files
 
 [2] Data of Participants with Oral Squamous Cell Carcinoma (OSCC)
 
-    (A) Blood Perfusion Data of 11 OSCC Participants (File: Perfusion_OSCC.xlsx)
+    (A) Blood Perfusion Data of 11 OSCC Participants (File: OSCC_Perfusion.xlsx)
 
-    (B) Tissue temperature Data of 11 OSCC Participants (File: Temperature_OSCC.xlsx)
+    (B) Tissue temperature Data of 11 OSCC Participants (File: OSCC_Temperature.xlsx)
 
-    (C) Metabolic Heat Generation Data of 11 OSCC Participants (File: Metabolic_OSCC.xlsx)
+    (C) Metabolic Heat Generation Data of 11 OSCC Participants (File: OSCC_Metabolic.xlsx)
+    
+    (D) Thermal conductivity Data of 11 OSCC Participants (File: OSCC_conductivity.xlsx)
 
-    (D) Thermal diffusivity Data of 11 OSCC Participants (File: Thermal_diffusivity_OSCC.xlsx)
+    (E) Thermal diffusivity Data of 11 OSCC Participants (File: OSCC_Thermaldiffusivity.xlsx)
     
 [3] Data of Participants with Oral Submucosa Fibrosis (OSF)
 
@@ -48,4 +50,4 @@ Details of files
     
     (D) Thermal conductivity Data of 14 OSF Participants (File: OSF_conductivity.xlsx)
 
-    (D) Thermal diffusivity Data of 14 OSF Participants (File: OSF_Thermaldiffusivity.xlsx)
+    (E) Thermal diffusivity Data of 14 OSF Participants (File: OSF_Thermaldiffusivity.xlsx)
