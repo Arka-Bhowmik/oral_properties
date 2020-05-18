@@ -11,7 +11,7 @@ Use of source files and data, with or without modification, are permitted provid
 2. Source paper: Details will be modified upon publication.
 3. Data source: A. Bhowmik, J. Chatterjee, and S. Chakraborty, Measured temperature, blood perfusion, metabolic heat generation and thermal conductivity of healthy oral mucosa, OSCC and OSF, 2020 [Online]: https://github.com/Arka-Bhowmik/oral_properties
 
-Further information can be obtained from Dr. Arka Bhowmik (arkabhowmik@yahoo.co.uk) and/or Dr. Suman Chakraborty (suman@mech.iitkgp.ac.in).
+Further information can be obtained by writing to Dr. Arka Bhowmik (arkabhowmik@yahoo.co.uk).
 
 
 Details of files
