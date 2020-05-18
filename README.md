@@ -9,7 +9,7 @@ Use of source files and data, with or without modification, are permitted provid
 
 1. Citing the source paper or data source.
 2. Source paper: Details will be modified upon publication.
-3. Data source: A. Bhowmik and S. Chakraborty, Measured temperature, blood perfusion, metabolic heat generation and thermal diffusivity of healthy oral mucosa, OSCC and OSF, 2020 [Online]: https://github.com/Arka-Bhowmik/oral_properties
+3. Data source: A. Bhowmik, J. Chatterjee, and S. Chakraborty, Measured temperature, blood perfusion, metabolic heat generation and thermal conductivity of healthy oral mucosa, OSCC and OSF, 2020 [Online]: https://github.com/Arka-Bhowmik/oral_properties
 
 Further information can be obtained from Dr. Arka Bhowmik (arkabhowmik@yahoo.co.uk) and/or Dr. Suman Chakraborty (suman@mech.iitkgp.ac.in).
 
@@ -24,7 +24,9 @@ Details of files
 
     (C) Metabolic Heat Generation Data of 36 Healthy Participants (File: Metabolic_healthy.xlsx)
 
-    (D) Thermal diffusivity Data of 36 Healthy Participants (File: Thermal_diffusivity_healthy.xlsx)
+    (D) Thermal conductivity Data of 36 Healthy Participants (File: Conductivity_healthy.xlsx)
+    
+    (E) Thermal diffusivity Data of 36 Healthy Participants (File: Thermaldiffusivity_healthy.xlsx)
 
 [2] Data of Participants with Oral Squamous Cell Carcinoma (OSCC)
 
