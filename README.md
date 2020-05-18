@@ -40,10 +40,12 @@ Details of files
     
 [3] Data of Participants with Oral Submucosa Fibrosis (OSF)
 
-    (A) Blood Perfusion Data of 14 OSF Participants (File: Perfusion_OSF.xlsx)
+    (A) Blood Perfusion Data of 14 OSF Participants (File: OSF_Perfusion.xlsx)
 
-    (B) Tissue temperature Data of 14 OSF Participants (File: Temperature_OSF.xlsx)
+    (B) Tissue temperature Data of 14 OSF Participants (File: OSF_Temperature_OSF.xlsx)
 
-    (C) Metabolic Heat Generation Data of 14 OSF Participants (File: Metabolic_OSF.xlsx)
+    (C) Metabolic Heat Generation Data of 14 OSF Participants (File: OSF_Metabolic.xlsx)
+    
+    (D) Thermal conductivity Data of 14 OSF Participants (File: OSF_conductivity.xlsx)
 
-    (D) Thermal diffusivity Data of 14 OSF Participants (File: Thermal_diffusivity_OSF.xlsx)
+    (D) Thermal diffusivity Data of 14 OSF Participants (File: OSF_Thermaldiffusivity.xlsx)
