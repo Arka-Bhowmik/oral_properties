@@ -42,7 +42,7 @@ Details of files
 
     (A) Blood Perfusion Data of 14 OSF Participants (File: OSF_Perfusion.xlsx)
 
-    (B) Tissue temperature Data of 14 OSF Participants (File: OSF_Temperature_OSF.xlsx)
+    (B) Tissue temperature Data of 14 OSF Participants (File: OSF_Temperature.xlsx)
 
     (C) Metabolic Heat Generation Data of 14 OSF Participants (File: OSF_Metabolic.xlsx)
     
