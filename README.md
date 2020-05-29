@@ -1,5 +1,5 @@
 # oral_properties
-This folder contains the measured and predicted thermo-physical data of different oral sites of normal patient, patient with oral squamous cell carcinoma and oral submucosa fibrosis.
+This folder contains (A) the measured and predicted thermo-physical data of different oral sites of normal patient, patient with oral squamous cell carcinoma and oral submucosa fibrosis, and (B) data used for Box and Whiskers plot in Figure 5(B).
 
 Note: To maintain anonymity, the sheet number corresponds to each patient that is represented by unique patient Id.
 
@@ -51,3 +51,6 @@ Details of files
     (D) Thermal conductivity Data of 14 OSF Participants (File: OSF_conductivity.xlsx)
 
     (E) Thermal diffusivity Data of 14 OSF Participants (File: OSF_Thermaldiffusivity.xlsx)
+    
+    
+[4] Data used for Box and Whiskers plot in Figure 5(B) (File: Fig 5(B).xlsx)
