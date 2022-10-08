@@ -3,15 +3,13 @@ This folder contains (A) the measured and predicted thermo-physical data of diff
 
 Note: To maintain anonymity, the sheet number corresponds to each patient that is represented by unique patient Id.
 
-Copyright (c) 2020, Arka Bhowmik and Suman Chakraborty
+Use of source files and data, with or without modification, are permitted.
 
-Use of source files and data, with or without modification, are permitted provided that the following conditions were met.
-
-1. Citing the source paper or data source.
-2. Source paper: Details will be modified upon publication.
+1. Please cite the source paper or data source.
+2. Source paper: Arka Bhowmik, Biswajoy Ghosh, Mousumi Pal, Ranjan Rashmi Paul, Jyotirmoy Chatterjee, Suman Chakraborty, Portable, handheld, and affordable blood perfusion imager for screening of subsurface cancer in resource-limited settings, Proceedings of the National Academy of Sciences, 119, 2022. DOI: https://www.pnas.org/doi/abs/10.1073/pnas.2026201119
 3. Data source: A. Bhowmik, J. Chatterjee, and S. Chakraborty, Measured temperature, blood perfusion, metabolic heat generation and thermal conductivity of healthy oral mucosa, OSCC and OSF, 2020 [Online]: https://github.com/Arka-Bhowmik/oral_properties
 
-Further information can be obtained by writing to Dr. Arka Bhowmik (arkabhowmik@yahoo.co.uk).
+Further information can be obtained by writing to Arka Bhowmik (arkabhowmik@yahoo.co.uk).
 
 
 Details of files
